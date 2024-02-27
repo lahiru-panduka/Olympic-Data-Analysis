@@ -12,8 +12,8 @@ I aim to explore this rich dataset through the lens of exploratory data analysis
 
 ## Data
 
-Data source: This project utilizes the publicly available dataset on https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history by "heesoo37".
-Description: The dataset contains approximately 271,116 rows, each representing an individual athlete participating in a specific event. It includes information on the athlete (name, gender, age, etc.), event details (sport, game year and city), and their medal achievement (if any).
+- Data source: This project utilizes the publicly available dataset on https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history by "heesoo37".
+- Description: The dataset contains approximately 271,116 rows, each representing an individual athlete participating in a specific event. It includes information on the athlete (name, gender, age, etc.), event details (sport, game year and city), and their medal achievement (if any).
 
 ## Analysis
 
