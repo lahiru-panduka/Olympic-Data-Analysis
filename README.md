@@ -1,6 +1,6 @@
 # Exploring 120 Years of Olympic History
 
-This repository delves into an analysis of the modern Olympic Games, spanning 120 years from 1896 to 2016.
+This repository dives into an analysis of the modern Olympic Games, spanning 120 years from 1896 to 2016.
 
 ## Project Description
 
